@@ -14,7 +14,7 @@ All you need to do is add the id of the spotify playlist in front matter block o
 ```
 spotifyplaylist: 2iaDUy0RVHVy2XxvQFnEBc
 ```  
-Where ` 2iaDUy0RVHVy2XxvQFnEBc` is the id of the playlist you want to embed.  
+Where `2iaDUy0RVHVy2XxvQFnEBc` is the id of the playlist you want to embed.  
 
 Next add following snippet at a place in your post where you want the playlist to appear,  
 ```
