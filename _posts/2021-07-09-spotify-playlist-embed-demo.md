@@ -6,7 +6,7 @@ categories: [playlist, spotify]
 excerpt: You can tell a lot about a person by what’s on their playlist.
 ---
 
-"You can tell a lot about a person by what's on their playlist."  
+> You can tell a lot about a person by what's on their playlist.  
 ~ Dan Mulligan (Begin Again)  
 
 Embeding a spotify playlist is easy.  
