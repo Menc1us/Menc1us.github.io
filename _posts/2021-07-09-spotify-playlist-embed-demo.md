@@ -17,9 +17,9 @@ spotifyplaylist: 2iaDUy0RVHVy2XxvQFnEBc
 Where `2iaDUy0RVHVy2XxvQFnEBc` is the id of the playlist you want to embed.  
 
 Next add following snippet at a place in your post where you want the playlist to appear,  
-```
+{% highlight html %}{% raw %}
 {% include spotifyplaylist.html id=page.spotifyplaylist %}
-```  
+{% endraw %}{% endhighlight %}
 
 And this is how it will look in your post,  
 
