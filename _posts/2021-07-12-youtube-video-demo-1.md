@@ -5,7 +5,8 @@ categories: [video, demo]
 excerpt: You can easily embed YouTube videos in your posts. All you have to do is add the following snippet to your post,
 ---
 
-You can easily embed YouTube videos in your posts. All you have to do is add the following snippet to your post. Replace <code>aqz-KE-bpKQ</code> in the code with the video ID of your video.  
+You can easily embed YouTube videos in your posts. All you have to do is add the following snippet to your post. Replace <code>aqz-KE-bpKQ</code> in the code with the video ID of your video.
+<!--more-->
 
 ```html
 <div class="plyr__video-embed" id="player">
