@@ -3,14 +3,15 @@ layout: post
 title: Spotify playlist demo
 spotifyplaylist: 2iaDUy0RVHVy2XxvQFnEBc
 categories: [playlist, spotify]
-excerpt: You can tell a lot about a person by what’s on their playlist.
 ---
 
 > You can tell a lot about a person by what's on their playlist.  
 ~ Dan Mulligan (Begin Again)  
 
 Embeding a spotify playlist is easy.  
-All you need to do is add the id of the spotify playlist in front matter block of your post like this,  
+All you need to do is add the id of the spotify playlist in front matter block of your post like this,
+<!--more-->
+
 ```
 spotifyplaylist: 2iaDUy0RVHVy2XxvQFnEBc
 ```  
