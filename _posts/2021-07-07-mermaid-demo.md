@@ -8,7 +8,9 @@ excerpt: Want to add diagrams, charts and visualizations in your post? Read on t
 Want to add diagrams, charts and visualizations in your post?  
 It is possible and guess what? It's not that difficult thanks to Mermaid.  
 All you need to keep in mind is you'll have to wrap your Mermaid markup in a `div` with class `mermaid`.  
-Here is a simple example of a basic flowchart,  
+Here is a simple example of a basic flowchart,
+<!--more-->
+
 ```
 <div class="mermaid">
 graph LR
