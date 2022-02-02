@@ -2,7 +2,6 @@
 layout: post
 title: YouTube video demo 1
 categories: [video, demo]
-excerpt: You can easily embed YouTube videos in your posts. All you have to do is add the following snippet to your post,
 ---
 
 You can easily embed YouTube videos in your posts. All you have to do is add the following snippet to your post. Replace <code>aqz-KE-bpKQ</code> in the code with the video ID of your video.
