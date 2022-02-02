@@ -2,7 +2,6 @@
 layout: post
 title: Mermaid demo
 categories: [mermaid, demo]
-excerpt: Want to add diagrams, charts and visualizations in your post? Read on then...
 ---
 
 Want to add diagrams, charts and visualizations in your post?  
