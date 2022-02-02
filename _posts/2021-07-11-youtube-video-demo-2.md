@@ -9,7 +9,9 @@ You are in a hurry and just wish to quickly post a link to a YouTube video but d
 And you want that video to be played on your site and not on YouTube page.  
 Is this possible?  
 It is possible! No worries! And it's easy too!  
-All you need to do is add `{:.glightbox}` at the end of the YouTube video link.  
+All you need to do is add `{:.glightbox}` at the end of the YouTube video link.
+<!--more-->
+
 An example. Following snippet will result in a video link.  
 ```
 [Spring - Blender Open Movie](https://www.youtube.com/watch?v=WhWc3b3KhnY){:.glightbox}
