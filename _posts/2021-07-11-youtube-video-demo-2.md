@@ -2,7 +2,6 @@
 layout: post
 title: YouTube video demo 2
 categories: [video, demo]
-excerpt: You are in a hurry and just wish to quickly post a link to a YouTube video but don't want to go to through the hassles of embedding that video.
 ---
 
 You are in a hurry and just wish to quickly post a link to a YouTube video but don't want to go to through the hassles of embedding that video.  
