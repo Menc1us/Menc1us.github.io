@@ -2,7 +2,6 @@
 layout: post
 title: Map embed demo
 categories: [map, demo]
-excerpt: You can easily embed a map in your posts. Here is an example,
 ---
 
 You can easily embed a map in your posts. Here is an example,  
