@@ -11,7 +11,10 @@ To add images to your posts all you need to do is replace <code>image_title</cod
 [![image_title](image_link)](image_link){:.glightbox}
 ```
 
-Clicking on an image will open it in lightbox and you will be able to view it in full-screen as well as cycle through the rest of the images just like you would in any other image viewer.  
+Clicking on an image will open it in lightbox and you will be able to view it in full-screen as well as cycle through the rest of the images just like you would in any other image viewer.
+<!--more-->
+
+Click on any of the images below to see it in action.  
 
 [![Smile](https://live.staticflickr.com/8371/8365329974_a53aa4e1f9_k.jpg)](https://live.staticflickr.com/8371/8365329974_a53aa4e1f9_k.jpg){:.glightbox}
 
