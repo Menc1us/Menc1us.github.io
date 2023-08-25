@@ -6,7 +6,7 @@ categories: [map, demo]
 
 You can easily embed a map in your posts. Here is an example,  
 
-{% include map.html id="556&w=740&cp=52.192438262242455~-1.7097167968750004&lvl=16&typ=d&sty=r&src=SHELL&FORM=MBEDV8" %}
+{% include map.html id="w=740&cp=52.192438262242455~-1.7097167968750004&lvl=16&typ=d&sty=r&src=SHELL&FORM=MBEDV8" %}
 
 So how do you embed a map like this in your own Jekyll post?
 <!--more-->
