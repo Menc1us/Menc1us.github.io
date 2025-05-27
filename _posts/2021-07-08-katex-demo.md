@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Montreal Day 1
-categories: [content, demo]
+title: KaTeX demo
+categories: [katex, demo]
 ---
 
 My Arriving in Montreal
