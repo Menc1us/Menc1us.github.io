@@ -1,19 +1,13 @@
 ---
 layout: post
-title: KaTeX demo
-categories: [katex, demo]
+title: Montreal Day 1
+categories: [content, demo]
 ---
 
-Including mathematical notations in your post is possible thanks to KaTeX.  
-To add a math notation all you need to do is add `$$` signs at the beginning and end of the notation.  
-An example for you guys,
-<!--more-->
+My Arriving in Montreal
 
-```
-$$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$
-```  
-Will produce the following notations,  
+On the morning of May the 25 in the year of our Lord 2025, I flew from my home in Alexandria, Virginia to Montreal, Canada in hopes of achieving unparalleled excellence in my understanding of the JavaScript syntax. I quickly met up with Abigail as well as Doctors Bunzli and Okoh at the Montreal Airport along with the rest of the students.
 
-$$f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi$$  
+The Journey from the Airport
 
-Math can be fun for sure!  
+Though long and arduous, the journey on the public transport to our lodgin passed smoothly. We arrived in dire need of shelter, as the storms soon began. We quickly realized that the hotel's gatekeepers, however, would be less than accomodating with regard to speed, as they proved patient equally as they were scrupulous with regard to the locating of our apartment keys. The lodging itself was humble in its amenities, and provided me with the adequate lack of distractions necessary for intense focus.
