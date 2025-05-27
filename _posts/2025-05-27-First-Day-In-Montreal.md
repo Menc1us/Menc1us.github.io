@@ -1,7 +1,8 @@
 ---
 layout: post
-title: First Day in Montreal
-categories: [First Day in Montreal, demo]
+title: "First Day in Montreal"
+categories:blog
+date: 2025-05-27
 ---
 
 My Arriving in Montreal
