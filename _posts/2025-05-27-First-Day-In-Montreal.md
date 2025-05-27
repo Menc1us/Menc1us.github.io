@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Day in Montreal"
-categories:blog
+categories: blog
 date: 2025-05-27
 ---
 
