@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KaTeX demo
+title: First Day in Montreal
 categories: [katex, demo]
 ---
 
